@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  th {
+    font-weight: bold;
+  }
+  
+  
+  canvas {
+    display: block;
+  }
